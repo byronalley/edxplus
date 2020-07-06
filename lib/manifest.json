@@ -1,0 +1,17 @@
+{
+	"manifest_version": 2,
+	"name": "edxplus",
+	"version": "0.1",
+	"description": "",
+	"icons": {
+		"48": "icons/edxplus.svg"
+	},
+
+	"content_scripts": [
+		{
+			"matches": ["*://*.edx.org/*"],
+			"js": ["dashboard.js", "index.js"],
+      "css": ["style.css"]
+		}
+	]
+}

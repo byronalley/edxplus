@@ -1,0 +1,14 @@
+.edxplus-button {
+  border: 1px solid #0075b4;
+  display: inline-block;
+  text-decoration: none;
+  padding: 3px 14px 3px 14px;
+  margin: 5px 10px 5px 5px;
+  cursor: pointer;
+}
+
+.edxplus-button.edxplus-selected, .edxplus-button:hover {
+  color: #fff !important;
+  background: #0075b4;
+  text-decoration: none !important;
+}
