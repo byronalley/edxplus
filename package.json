@@ -1,6 +1,6 @@
 {
   "name": "edxplus",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Firefox add-on to enhance functionality on edX.org",
   "main": "lib/index.js",
   "directories": {
@@ -14,7 +14,7 @@
   "author": "Byron Alley",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.2.0",
-    "web-ext": "^4.3.0"
+    "chai": "^4.3.4",
+    "web-ext": "^6.0.0"
   }
 }
