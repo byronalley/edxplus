@@ -8,7 +8,7 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/web-ext run lib"
+    "start": "./node_modules/.bin/web-ext run -s lib"
   },
   "keywords": [],
   "author": "Byron Alley",
