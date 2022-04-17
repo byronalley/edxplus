@@ -14,7 +14,7 @@
   "author": "Byron Alley",
   "license": "ISC",
   "devDependencies": {
-    "chai": "^4.3.4",
+    "chai": "^4.3.6",
     "web-ext": "^6.8.0"
   }
 }
